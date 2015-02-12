@@ -64,7 +64,6 @@
             <li class="active"><a href=".">Home</a></li>
             <li><a href="robots/">Our Robots</a></li>
             <li><a href="gallery/">Gallery</a></li>
-            <li><a href="news/">News</a></li>
             <li><a href="about/">About</a></li>
             <li><a href="contact/">Contact</a></li>
           </ul>
@@ -89,36 +88,29 @@
               <div class="item active">
                 <img src="img/demo/1.png" alt="Retro Play">
                 <div class="carousel-caption">
-                  <h3>Retro Play</h3>
-                  <p>Retro Play offers a simple, clean interface to manage your classic game library.</p>
+                  <h3>Team Members</h3>
+                  <p></p>
                 </div>
               </div>
               <div class="item">
                 <img src="img/demo/2.png" alt="Retro Play">
                 <div class="carousel-caption">
-                  <h3>Search</h3>
-                  <p>With just a console and a keyword provided, Retro Play searches through a database of over a thousand games.</p>
+                  <h3>Building Aquiles</h3>
+                  <p></p>
                 </div>
               </div>
               <div class="item">
                 <img src="img/demo/3.png" alt="Retro Play">
                 <div class="carousel-caption">
-                  <h3>Download</h3>
-                  <p>When you double-click a result, Retro Play starts downloading it. In a few seconds you'll have it in you library.</p>
+                  <h3>Programming Aquiles</h3>
+                  <p></p>
                 </div>
               </div>
               <div class="item">
                 <img src="img/demo/4.png" alt="Retro Play">
                 <div class="carousel-caption">
-                  <h3>Manage</h3>
-                  <p>In the library, you can manage your games and savefiles. And of course, play your games with a double click.</p>
-                </div>
-              </div>
-              <div class="item">
-                <img src="img/demo/5.png" alt="Retro Play">
-                <div class="carousel-caption">
-                  <h3>Play</h3>
-                  <p>Relive your childhood games, or discover hidden treasures you've never played.</p>
+                  <h3>Our Sponsors</h3>
+                  <p></p>
                 </div>
               </div>
               <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">

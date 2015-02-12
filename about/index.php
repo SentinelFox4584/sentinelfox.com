@@ -64,7 +64,6 @@
             <li><a href="../">Home</a></li>
             <li><a href="../robots/">Our Robots</a></li>
             <li><a href="../gallery/">Gallery</a></li>
-            <li><a href="../news/">News</a></li>
             <li class="active"><a href=".">About</a></li>
             <li><a href="../contact/">Contact</a></li>
           </ul>
@@ -84,7 +83,7 @@
         </div>
         <div class="col-md-6">
             <h2>Sponsors</h2>
-            <img src="../img/rr.jpg" />
+            <img src="img/sponsors.png" height="100%" />
         </div>
       </div>
 
